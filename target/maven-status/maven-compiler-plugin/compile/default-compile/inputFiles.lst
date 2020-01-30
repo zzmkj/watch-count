@@ -1,0 +1,11 @@
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/etl/DataCleanJob.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/etl/DataCleanMap.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/video/VideoInfoReducer.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/video/VideoInfoJob.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/utils/MapUtils.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/utils/DateUtils.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/top/VideoInfoTopReducer.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/top/VideoInfoTopJob.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/video/VideoInfoMapper.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/top/VideoInfoTopMapper.java
+/Users/apple/java_project/watch/src/main/java/com/geek/watch/video/VideoInfoWritable.java
